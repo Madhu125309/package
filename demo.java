@@ -8,6 +8,7 @@ abstract class abs {
 
 class dao extends abs {
   public void getData() {
+
     System.out.println("hello"); // class to class
   }
 }
