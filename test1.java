@@ -5,7 +5,7 @@ class account {
         return this.min_bal;
     }
 
-    public void set_min_bal(double bal) {
+    public void set_min_bal(double bal) { // encription
         this.min_bal = bal;
     }
 }
